@@ -11,7 +11,7 @@
 </div>
 <br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Minchan0823&layout=compact">
-<img src="https://github-readme-stats.vercel.app/api?username=Minchan0823&show_icons=true&theme=synthwave">
+<img src="https://github-readme-stats.vercel.app/api?username=Minchan0823&show_icons=true&theme=transparent">
 
 <!--
 **Minchan0823/MInchan0823** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
