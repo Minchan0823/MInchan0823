@@ -9,7 +9,7 @@
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white"/>
 </div>
 <div>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Minchan0823&layout=compact)](https://github.com/Minchan0823/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Minchan0823&layout=compact)](https://github.com/Minchan0823/github-readme-stats)
 </div>
 <!--
 **Minchan0823/MInchan0823** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
