@@ -10,7 +10,7 @@
   <img src="https://img.shields.io/badge/Java-26689A?style=flat&logo=Java&logoColor=white"/>
 </div>
 <br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Minchan0823&layout=compact">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Minchan0823&layout=compact&theme=transparent">
 <img src="https://github-readme-stats.vercel.app/api?username=Minchan0823&show_icons=true&theme=transparent">
 
 <!--
